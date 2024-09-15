@@ -3636,6 +3636,7 @@ $rpc/google.internal.maps.mapsjs.v1.MapsJsInternalService
 0
 0*?
 0,*
+0;((a=google.c)==null?void
 ;preview=
 =$
 ?
@@ -5654,7 +5655,6 @@ I18n/static-7.314
 I18n/static-7.315
 I18n/static-7.329
 IBCommerce
-ID"),!1,d)}}catch(x){google.ml(x,!0,{"jsl.dh":!0})}};(function(){var
 IEB/ToolBox/SB
 ILC-refresh
 IM
@@ -6770,6 +6770,7 @@ _ok
 _overlay
 _partial
 _partials/wix-vod
+_partners
 _print
 _print.html
 _private
@@ -6838,8 +6839,10 @@ a/eclipselabs.org
 a/feeds
 a/ocom/docs/corporate/pricing
 a/ocom/resources
+a=function(){M=!1;S()};google.caft(a);window.setTimeout(a,amd)}O&&(a=function(){O=!1;S()},N?N.cbvi.push(a):(0,google.rairicb)(a),window.setTimeout(a,mmd));Q&&(L||E())}else
 aaea/
 aapor/
+ab
 ab_tests
 abc4000
 abclinks
@@ -7633,6 +7636,7 @@ at/c/*attr_*=
 at/c/*price_bucket=
 at/c/*search_type=
 at/c/*ship_to=
+at/c?*attr_*=
 at/cart
 at/conversations
 at/de/misc/litetopicpage.global-topic-tags.innovation.html
@@ -7770,6 +7774,7 @@ au/c/*attr_*=
 au/c/*price_bucket=
 au/c/*search_type=
 au/c/*ship_to=
+au/c?*attr_*=
 au/cannabis
 au/careers/portal
 au/careers/search?
@@ -8404,6 +8409,7 @@ be/c/*attr_*=
 be/c/*price_bucket=
 be/c/*search_type=
 be/c/*ship_to=
+be/c?*attr_*=
 be/cannabis
 be/cart
 be/conversations
@@ -9117,6 +9123,7 @@ c/subscription
 c/technology.atom
 c360/v1/track
 c360_v1_track
+c?*attr_*=
 cDN_contENt
 cHash
 ca
@@ -9168,6 +9175,7 @@ ca-fr/c/*attr_*=
 ca-fr/c/*price_bucket=
 ca-fr/c/*search_type=
 ca-fr/c/*ship_to=
+ca-fr/c?*attr_*=
 ca-fr/cannabis
 ca-fr/carrieres/search?
 ca-fr/cart
@@ -9249,6 +9257,7 @@ ca/c/*attr_*=
 ca/c/*price_bucket=
 ca/c/*search_type=
 ca/c/*ship_to=
+ca/c?*attr_*=
 ca/cannabis
 ca/careers/portal
 ca/careers/search?
@@ -9725,6 +9734,7 @@ ch/c/*attr_*=
 ch/c/*price_bucket=
 ch/c/*search_type=
 ch/c/*ship_to=
+ch/c?*attr_*=
 ch/cart
 ch/conversations
 ch/guest-pass
@@ -9892,6 +9902,7 @@ cl
 cl2/feeds
 cl2/ical
 claim-money?
+class
 classic-apps
 classic/contact/concerts.htm
 classic/contact/default.htm
@@ -10859,6 +10870,7 @@ de-en/c/*attr_*=
 de-en/c/*price_bucket=
 de-en/c/*search_type=
 de-en/c/*ship_to=
+de-en/c?*attr_*=
 de-en/cart
 de-en/conversations
 de-en/guest-pass
@@ -10921,6 +10933,7 @@ de/c/*attr_*=
 de/c/*price_bucket=
 de/c/*search_type=
 de/c/*ship_to=
+de/c?*attr_*=
 de/cannabis
 de/careers/?*
 de/cart
@@ -11277,6 +11290,7 @@ dk-en/c/*attr_*=
 dk-en/c/*price_bucket=
 dk-en/c/*search_type=
 dk-en/c/*ship_to=
+dk-en/c?*attr_*=
 dk-en/cannabis
 dk-en/careers/portal
 dk-en/careers/search?
@@ -11481,6 +11495,7 @@ doi/mlt
 doi/reader
 doi/ref
 doi/xml
+dom
 domain/names/results?
 domains/transfer-a-domain/transfer.aspx
 domains/whois/whois-ajax.aspx
@@ -11841,6 +11856,7 @@ en/JSWidget/
 en/JSWidgetFeed/
 en/StockQuote/
 en/Tracker?data=*
+en/US/docs/general/Test
 en/US/swassets/
 en/US/swassets/sw274/sitewide_country_language_selector.html
 en/account/
@@ -12057,6 +12073,7 @@ es/c/*attr_*=
 es/c/*price_bucket=
 es/c/*search_type=
 es/c/*ship_to=
+es/c?*attr_*=
 es/cannabis
 es/cart
 es/conversations
@@ -12507,6 +12524,7 @@ fi-en/c/*attr_*=
 fi-en/c/*price_bucket=
 fi-en/c/*search_type=
 fi-en/c/*ship_to=
+fi-en/c?*attr_*=
 fi-en/cart
 fi-en/conversations
 fi-en/guest-pass
@@ -12866,6 +12884,7 @@ fr/c/*attr_*=
 fr/c/*price_bucket=
 fr/c/*search_type=
 fr/c/*ship_to=
+fr/c?*attr_*=
 fr/ca/
 fr/cannabis
 fr/carrieres/search?
@@ -13617,6 +13636,7 @@ hackathons/reinvent-2013/
 hacker/*/followhttp://hackerone.com/robots.txt
 hacker/*/unfollow
 hair-transplant-services
+handler
 handmade
 handoff
 handoff-healthcheck
@@ -13627,6 +13647,7 @@ hash=
 hashid=%subscriber_hash%
 hashtag/*?src=
 hava
+hava-durumu/*p=
 hbbtv
 hbbtv-dev
 hcp
@@ -13704,6 +13725,7 @@ help/verify_email
 help/vodafone
 help/zendesk_sso
 helpdocs
+helper
 hemeroteca/*
 heritrix/3.3.0
 hermes
@@ -13786,6 +13808,7 @@ hk-en/c/*attr_*=
 hk-en/c/*price_bucket=
 hk-en/c/*search_type=
 hk-en/c/*ship_to=
+hk-en/c?*attr_*=
 hk-en/cannabis
 hk-en/careers/portal
 hk-en/careers/search?
@@ -14021,7 +14044,7 @@ http://bbc.com/robots.txt
 http://bcn.cl/robots.txt
 http://behance.net/robots.txt
 http://census.gov/robots.txt
-http://creativecommons.org/robots.txt
+http://creativemarket.com/robots.txt
 http://euronews.com/robots.txt
 http://extension.purdue.edu/robots.txt
 http://graphisoft.com/robots.txt
@@ -14038,7 +14061,6 @@ http://raiplay.it/robots.txt
 http://redbubble.com/robots.txt
 http://support.apple.com/robots.txt
 http://techradar.com/robots.txt
-http://theconversation.com/robots.txt
 http://theverge.com/robots.txt
 http://tiny.cc/robots.txt
 http://torproject.org/robots.txt
@@ -14223,6 +14245,7 @@ ideas/search/
 identity
 identity/accountsettingsactivityweb
 identity/accountsettingssyaf
+idojaras/*p=
 idx
 ie
 ie$
@@ -14268,6 +14291,7 @@ ie/c/*attr_*=
 ie/c/*price_bucket=
 ie/c/*search_type=
 ie/c/*ship_to=
+ie/c?*attr_*=
 ie/cannabis
 ie/careers/portal
 ie/careers/search?
@@ -14363,6 +14387,7 @@ il-en/c/*attr_*=
 il-en/c/*price_bucket=
 il-en/c/*search_type=
 il-en/c/*ship_to=
+il-en/c?*attr_*=
 il-en/cart
 il-en/conversations
 il-en/guest-pass
@@ -14484,6 +14509,7 @@ in-en/c/*attr_*=
 in-en/c/*price_bucket=
 in-en/c/*search_type=
 in-en/c/*ship_to=
+in-en/c?*attr_*=
 in-en/cart
 in-en/conversations
 in-en/guest-pass
@@ -14712,6 +14738,7 @@ insights/us/en/redirection-pages/
 install-shuffles
 install.php
 installation
+instances
 int/Free_For_Mem
 intarnel/*
 intcmp=
@@ -14720,6 +14747,7 @@ integromedb
 intelligencer/amp
 interactive*http://fcc.gov/robots.txt
 interactive/reading-preference
+interactives
 interface/pda
 intern/service/suche
 internal
@@ -14868,6 +14896,7 @@ it/c/*attr_*=
 it/c/*price_bucket=
 it/c/*search_type=
 it/c/*ship_to=
+it/c?*attr_*=
 it/cannabis
 it/cart
 it/conversations
@@ -15247,6 +15276,7 @@ jp/c/*attr_*=
 jp/c/*price_bucket=
 jp/c/*search_type=
 jp/c/*ship_to=
+jp/c?*attr_*=
 jp/cannabis
 jp/cart
 jp/conversations
@@ -15308,6 +15338,8 @@ jquery-libs/static-1.48
 jref
 js
 js/ajaxconn
+js/main-*.js
+js/streamsense-*.min.js
 js/widget.js
 js2
 js3
@@ -15996,6 +16028,9 @@ maestro
 maestro/api
 magazine
 magazine/
+magazine/archive/2001/02/bill-clinton-and-his-consequences/303383
+magazine/archive/2001/02/bill-clinton-and-his-consequences/303383/$
+magazine/archive/2010/11/letters-to-the-editor/308258
 magazine/computing/thank-you/
 magazine/get_comment
 magazine/polls
@@ -16173,6 +16208,7 @@ media/*/technical-documentation/design-notes/
 media/*/technical-documentation/tech-articles/
 media/0000
 media/BookingThumbnails
+media/Player6_0.swf
 media/ProviderThumbnails
 media/TALSO.swf
 media/TUIThumbnails
@@ -16561,6 +16597,8 @@ messaging/ajax_already_messaged
 meta
 meta-site
 meta/sitemap
+meteo/*p=
+meteorologia/*p=
 metrics
 metro/*?from
 mg/forums
@@ -16843,6 +16881,7 @@ mx/c/*attr_*=
 mx/c/*price_bucket=
 mx/c/*search_type=
 mx/c/*ship_to=
+mx/c?*attr_*=
 mx/cannabis
 mx/cart
 mx/conversations
@@ -17278,6 +17317,7 @@ nl/c/*attr_*=
 nl/c/*price_bucket=
 nl/c/*search_type=
 nl/c/*ship_to=
+nl/c?*attr_*=
 nl/cannabis
 nl/cart
 nl/conversations
@@ -17406,6 +17446,7 @@ no-en/c/*attr_*=
 no-en/c/*price_bucket=
 no-en/c/*search_type=
 no-en/c/*ship_to=
+no-en/c?*attr_*=
 no-en/cannabis
 no-en/careers/portal
 no-en/careers/search?
@@ -17537,7 +17578,6 @@ nofollow=1
 nojs=
 non-searchable/
 nonConfig/api/wpa
-nonce="PXiJn0GzxTxgvpsPnL768Q">if(google.cis
 nonprofits/account
 nonstyleishida/videolist-*.html
 nonstyleishida/videolist.html
@@ -17647,6 +17687,7 @@ nz/c/*attr_*=
 nz/c/*price_bucket=
 nz/c/*search_type=
 nz/c/*ship_to=
+nz/c?*attr_*=
 nz/cannabis
 nz/careers/portal
 nz/careers/search?
@@ -18049,7 +18090,6 @@ parliament/public/transltraineeship/secured
 partNumber=
 participate/conferences.xml
 partner
-partner-articles
 partner-content/*
 partner-locator/partner-details
 partnerfeeds
@@ -18340,6 +18380,7 @@ pl/c/*attr_*=
 pl/c/*price_bucket=
 pl/c/*search_type=
 pl/c/*ship_to=
+pl/c?*attr_*=
 pl/cannabis
 pl/cart
 pl/conversations
@@ -19064,6 +19105,7 @@ psettings/guest-controls
 psettings/guest-controls/retargeting-opt-out
 psettings/guest-email-unsubscribe
 psettings/sms-unsubscribe
+pseudoco.cisco.com
 psfigs
 psoriasis-plaques-biologic-medicines-targeted-therapies
 pt
@@ -19142,6 +19184,7 @@ pt/c/*attr_*=
 pt/c/*price_bucket=
 pt/c/*search_type=
 pt/c/*ship_to=
+pt/c?*attr_*=
 pt/cannabis
 pt/cart
 pt/conversations
@@ -20052,6 +20095,7 @@ se-en/c/*attr_*=
 se-en/c/*price_bucket=
 se-en/c/*search_type=
 se-en/c/*ship_to=
+se-en/c?*attr_*=
 se-en/cart
 se-en/conversations
 se-en/guest-pass
@@ -20193,6 +20237,7 @@ search/*filter=dl
 search/.
 search/2/api
 search/?
+search/?*q=
 search/?q=
 search/?stype
 search/Fight+Compilation
@@ -20521,6 +20566,7 @@ sg-en/c/*attr_*=
 sg-en/c/*price_bucket=
 sg-en/c/*search_type=
 sg-en/c/*ship_to=
+sg-en/c?*attr_*=
 sg-en/cart
 sg-en/conversations
 sg-en/guest-pass
@@ -22132,6 +22178,7 @@ templates/classroom-decoration
 templates/get-bitly-url.txt
 templates/search
 templates/search?query=
+tempo/*p=
 temporal
 temporary_marketing_proxy/*
 terms
@@ -22286,6 +22333,7 @@ ti/g2
 ti/p
 tickets
 tickets-external?
+tiempo/*p=
 tim
 time/change/*?
 time/change/@
@@ -22862,6 +22910,7 @@ uk/c/*attr_*=
 uk/c/*price_bucket=
 uk/c/*search_type=
 uk/c/*ship_to=
+uk/c?*attr_*=
 uk/cannabis
 uk/careers/portal
 uk/careers/search?
@@ -23021,6 +23070,7 @@ until=
 upcomingevents
 update-your-browser
 update.php
+update_
 updatecart
 updatemanagement/
 updates
@@ -23092,6 +23142,7 @@ us-es/c/*attr_*=
 us-es/c/*price_bucket=
 us-es/c/*search_type=
 us-es/c/*ship_to=
+us-es/c?*attr_*=
 us-es/cart
 us-es/conversations
 us-es/guest-pass
@@ -23535,6 +23586,7 @@ video/embed
 video/embed-player
 video/embedded
 video/games/tags/
+video/iframe
 video/moment-joseph-mccann-arrested-in-a-tree-11878890
 video/movies/entity
 video/mucinex-md
@@ -23701,6 +23753,7 @@ weather.html?old=
 weather/*/historic?hd=
 weather/*/hourly?hd=
 weather/*?hd=
+weather/*p=
 weather/*sort
 weather/hi/about/newsid_7760000/7760846.stm
 weatherbeta
@@ -23790,6 +23843,7 @@ weimg
 welcome
 welcome-email
 welcome.aspx
+wetter/*p=
 wewantyou/
 wgbh/americanexperience/about/search/search_results.html
 wgbh/frontline/*elqat
@@ -24591,6 +24645,8 @@ word/document_stats
 word/document_url
 word/download
 word/embed
+wordpress/wp-admin
+wordpress/wp-admin/admin-ajax.php
 work
 work/_
 work/acceptinvitation
@@ -24691,6 +24747,7 @@ wp-admin/admin-ajax.php
 wp-admin/admin-ajax.php
 wp-admin/admin-ajax.phphttp://aljazeera.com/robots.txt
 wp-admin/admin-ajax.phphttp://fool.com/robots.txt
+wp-admin/admin-ajax.phphttp://openstreetmap.org/robots.txt
 wp-admin/load-scripts.php
 wp-admin/load-styles.php
 wp-adv
@@ -25212,6 +25269,7 @@ zz
 2012/pyRdfa/extract
 2013/03/21/174840895
 2015/07/04/419570939/chasing-memories-in-their-refugee-camp-40-years-after-they-fled-vietnam
+2016/09/22/thailand-s-king-bhumibol-the-peoples-monarch-has-died
 2020/04/08/830237502/episode-989-what-if-no-one-pays-rent
 2021/05/view-gallery
 2240
@@ -25226,6 +25284,7 @@ zz
 2994
 3910
 4160
+4624/TheAtlanticOnline
 5055/aw-techrepublic
 5055/maw-techrepublic
 5293
